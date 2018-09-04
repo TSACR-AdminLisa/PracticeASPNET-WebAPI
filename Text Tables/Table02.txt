@@ -1,0 +1,6 @@
+01 | Rompecabezas | 06
+02 | Cubo Rubik | 02
+03 | Ajedrez | 01
+04 | Jenga | 03
+05 | Monopoly | 05
+06 | Pictionary | 04
