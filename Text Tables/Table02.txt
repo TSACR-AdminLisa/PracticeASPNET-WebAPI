@@ -1,6 +1,10 @@
+ID | ToyName      | IDPerson 
 01 | Rompecabezas | 06
 02 | Cubo Rubik | 02
 03 | Ajedrez | 01
 04 | Jenga | 03
 05 | Monopoly | 05
 06 | Pictionary | 04
+07 | Kids Pictionary | 06
+08 | Kids Monopoly | 04
+09 | UNO | 01
